@@ -17,9 +17,7 @@ Donny Maulana, S.Kom., M.M.S.I.
 
 <img align="center" alt="Coding" width="200" src="https://github.com/ricky1211/UTS_ANDROID/blob/main/VideoAndroidUTS.gif?raw=true">
 
-#### [Sourcecode_Java](https://github.com/ricky1211/UTS_ANDROID/blob/main/Androidd/app/src/main/java/com/hello/uts_android/MainActivity.java)
 
-#### [Sourcecode_Activity](https://github.com/ricky1211/UTS_ANDROID/blob/main/Androidd/app/src/main/res/layout/activity_popup.xml)
 
 
 
